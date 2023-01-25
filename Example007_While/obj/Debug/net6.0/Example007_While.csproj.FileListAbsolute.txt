@@ -1,0 +1,15 @@
+C:\Users\semah\Google Диск\СемашкоМА\Geekbrains\I ЧЕТВЕРТЬ\Знакомство с языками программирования\1_Examples\Example007_While\obj\Debug\net6.0\Example007_While.csproj.AssemblyReference.cache
+C:\Users\semah\Google Диск\СемашкоМА\Geekbrains\I ЧЕТВЕРТЬ\Знакомство с языками программирования\1_Examples\Example007_While\obj\Debug\net6.0\Example007_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semah\Google Диск\СемашкоМА\Geekbrains\I ЧЕТВЕРТЬ\Знакомство с языками программирования\1_Examples\Example007_While\obj\Debug\net6.0\Example007_While.AssemblyInfoInputs.cache
+C:\Users\semah\Google Диск\СемашкоМА\Geekbrains\I ЧЕТВЕРТЬ\Знакомство с языками программирования\1_Examples\Example007_While\obj\Debug\net6.0\Example007_While.AssemblyInfo.cs
+C:\Users\semah\Google Диск\СемашкоМА\Geekbrains\I ЧЕТВЕРТЬ\Знакомство с языками программирования\1_Examples\Example007_While\obj\Debug\net6.0\Example007_While.csproj.CoreCompileInputs.cache
+C:\Users\semah\Google Диск\СемашкоМА\Geekbrains\I ЧЕТВЕРТЬ\Знакомство с языками программирования\1_Examples\Example007_While\bin\Debug\net6.0\Example007_While.exe
+C:\Users\semah\Google Диск\СемашкоМА\Geekbrains\I ЧЕТВЕРТЬ\Знакомство с языками программирования\1_Examples\Example007_While\bin\Debug\net6.0\Example007_While.deps.json
+C:\Users\semah\Google Диск\СемашкоМА\Geekbrains\I ЧЕТВЕРТЬ\Знакомство с языками программирования\1_Examples\Example007_While\bin\Debug\net6.0\Example007_While.runtimeconfig.json
+C:\Users\semah\Google Диск\СемашкоМА\Geekbrains\I ЧЕТВЕРТЬ\Знакомство с языками программирования\1_Examples\Example007_While\bin\Debug\net6.0\Example007_While.dll
+C:\Users\semah\Google Диск\СемашкоМА\Geekbrains\I ЧЕТВЕРТЬ\Знакомство с языками программирования\1_Examples\Example007_While\bin\Debug\net6.0\Example007_While.pdb
+C:\Users\semah\Google Диск\СемашкоМА\Geekbrains\I ЧЕТВЕРТЬ\Знакомство с языками программирования\1_Examples\Example007_While\obj\Debug\net6.0\Example007_While.dll
+C:\Users\semah\Google Диск\СемашкоМА\Geekbrains\I ЧЕТВЕРТЬ\Знакомство с языками программирования\1_Examples\Example007_While\obj\Debug\net6.0\refint\Example007_While.dll
+C:\Users\semah\Google Диск\СемашкоМА\Geekbrains\I ЧЕТВЕРТЬ\Знакомство с языками программирования\1_Examples\Example007_While\obj\Debug\net6.0\Example007_While.pdb
+C:\Users\semah\Google Диск\СемашкоМА\Geekbrains\I ЧЕТВЕРТЬ\Знакомство с языками программирования\1_Examples\Example007_While\obj\Debug\net6.0\Example007_While.genruntimeconfig.cache
+C:\Users\semah\Google Диск\СемашкоМА\Geekbrains\I ЧЕТВЕРТЬ\Знакомство с языками программирования\1_Examples\Example007_While\obj\Debug\net6.0\ref\Example007_While.dll
